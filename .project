@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>todomvc-tessell</name>
-	<comment></comment>
-	<projects>
-	</projects>
+	<comment/>
+	<projects/>
+	<natures>
+		<nature>org.springsource.ide.eclipse.gradle.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.google.gwt.eclipse.core.gwtNature</nature>
+	</natures>
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
+			<arguments/>
 		</buildCommand>
 		<buildCommand>
 			<name>com.google.gdt.eclipse.core.webAppProjectValidator</name>
-			<arguments>
-			</arguments>
+			<arguments/>
 		</buildCommand>
 		<buildCommand>
 			<name>com.google.gwt.eclipse.core.gwtProjectValidator</name>
-			<arguments>
-			</arguments>
+			<arguments/>
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.ui.externaltools.ExternalToolBuilder</name>
@@ -30,9 +31,5 @@
 			</arguments>
 		</buildCommand>
 	</buildSpec>
-	<natures>
-		<nature>org.springsource.ide.eclipse.gradle.core.nature</nature>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>com.google.gwt.eclipse.core.gwtNature</nature>
-	</natures>
+	<linkedResources/>
 </projectDescription>

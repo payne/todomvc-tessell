@@ -1,5 +1,7 @@
-eclipse.preferences.version=1
+#Tue Dec 22 10:52:24 CST 2015
 jarsExcludedFromWebInfLib=
+warSrcDir=src/main/webapp/
+lastWarOutDir=/Users/mpayne/Study2/Java/todomvc-tessell/war
+eclipse.preferences.version=1
+warSrcDirIsOutput=false
 launchConfigExternalUrlPrefix=
-warSrcDir=src/main/webapp
-warSrcDirIsOutput=true
